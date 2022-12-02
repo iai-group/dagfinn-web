@@ -45,5 +45,4 @@ If you are using this repository, please cite the following paper:
 
 ## Contributors
 
-[Ivica Kostric](https://ikostric.github.io/), [Krisztian Balog](krisztianbalog.com), Nolwenn Bernard, Weronika Lajewska
- 
+[Ivica Kostric](https://ikostric.github.io/), [Krisztian Balog](krisztianbalog.com), Tølløv Alexander Aresvik, Nolwenn Bernard, Eyvinn Thu Dørheim, Pholit Hantula, Sander Havn-Sørensen, Rune Henriksen, Hengameh Hosseini, Ekaterina Khlybova, Weronika Lajewska, Sindre Ekrheim Mosand, Narmin Orujova
